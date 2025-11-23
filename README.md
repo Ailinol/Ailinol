@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/master/Assets/GIF/hi.gif" width="50px" alt="Hello GIF" />
 </p>
 
-# <h1 align="center">Olá, eu sou o Liliano — Developer de Moçambique 🇲🇿</h1>
+# <h1 align="center">Olá, eu sou o Liliano Ricardo Licumba</h1>
 
 <p align="center">
   <a href="https://github.com/Liliano">
