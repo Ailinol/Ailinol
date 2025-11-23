@@ -30,30 +30,25 @@ Minha jornada é sobre transformar desafios em soluções. Focado em aprimorar m
 - 🖥️ **Java Swing** — Desenvolvendo GUIs funcionais para casos de uso reais.
 - 🧠 **AI / LLM Engineering** — Criando assistentes inteligentes locais (Projeto *SEMENETE*).
 - 🎓 **Sistemas Educacionais** — Assistente inteligente focado na UEM + sistemas de gestão escolar.
-- 🌱 **Machine Learning** — Após NumPy & Matplotlib, mergulhando mais fundo na inteligência de dados.
 - 🔐 **Cybersecurity** — Do básico à prática (futuro em red-team/blue-team).
 
 _Eu codifico para resolver os problemas ao meu redor, especialmente no contexto de Moçambique, onde a tecnologia pode ter um impacto real e imediato._
 
 ---
 
-## 🛠️ Meu Arsenal Hacker: Tech Stack
+## 🛠️ Meu Arsenal: Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge" />
   <img src="https://img.shields.io/badge/Java_Swing-lightgrey?style=for-the-badge&logo=apache&logoColor=white" alt="Java Swing Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
   <img src="https://img.shields.io/badge/Pascal-D40027?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal Badge" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLM_Engineering-FF4D00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Engineering Badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-1F7B1F?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity Badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge" />
-  <img src="https://img.shields.io/badge/Data_Science_&_Automation-50C878?style=for-the-badge&logo=splunk&logoColor=white" alt="Data Science & Automation Badge" />
 </p>
 
 <p align="left">
@@ -61,7 +56,7 @@ _Eu codifico para resolver os problemas ao meu redor, especialmente no contexto 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Jupiter Lab" />
 </p>
 
 ---
@@ -93,7 +88,7 @@ Categorias, geração automática de IDs, persistência de dados e uma GUI limpa
 
 ---
 
-## 🧩 O Lado Hacker Fun: Além do Terminal
+## 🧩 O Lado Fun: Além do Terminal
 
 - Eu depuro a vida como depuro o código.
 - Eu realmente gosto de aprender coisas difíceis da maneira mais difícil.
