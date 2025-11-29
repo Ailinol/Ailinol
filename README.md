@@ -1,6 +1,13 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=LILIANO+LICUMBA" alt="Typing SVG" />
+```
+██╗     ██╗██╗     ██╗ █████╗ ███╗   ██╗ ██████╗     ██╗     ██╗ ██████╗██╗   ██╗███╗   ███╗██████╗  █████╗ 
+██║     ██║██║     ██║██╔══██╗████╗  ██║██╔═══██╗    ██║     ██║██╔════╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██║     ██║██║     ██║███████║██╔██╗ ██║██║   ██║    ██║     ██║██║     ██║   ██║██╔████╔██║██████╔╝███████║
+██║     ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║    ██║     ██║██║     ██║   ██║██║╚██╔╝██║██╔══██╗██╔══██║
+███████╗██║███████╗██║██║  ██║██║ ╚████║╚██████╔╝    ███████╗██║╚██████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║
+╚══════╝╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=AI+ENGINEER+%7C+FULL-STACK+%7C+CYBERSEC&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=35"/>
 
