@@ -28,9 +28,8 @@ Olá! Sou **Liliano Licumba**, estudante de **Licenciatura em Informática-Labor
 Sou apaixonado por tecnologia e estou sempre explorando novas áreas, com foco especial em:
 
 - 🤖 **Engenharia de LLMs** (Large Language Models) e IA Generativa
-- 🛡️ **Cibersegurança** - tanto ofensiva quanto defensiva
-- ⚙️ **Manipulação de arquivos binários** e sistemas de baixo nível
-- 🖥️ **Desenvolvimento de sistemas desktop** usando Swing e JavaFX
+- 🛡️ **Cibersegurança** - Focado em web(Red team + blue team)
+- 🖥️ **Desenvolvimento web** focado em Back-end 
 
 > *"A tecnologia é apenas a ferramenta, o verdadeiro poder está em quem a usa para criar impacto."*
 
@@ -63,7 +62,7 @@ Sou apaixonado por tecnologia e estou sempre explorando novas áreas, com foco e
 
 ### 🤖 Assistente UEM
 Assistente virtual com IA para suporte acadêmico e administrativo na Universidade Eduardo Mondlane.
-- **Stack:** Python, NLP, IA Local
+- **Stack:** Python, 
 - **Funcionalidades:** Processamento de linguagem natural, suporte acadêmico, IA rodando localmente
 
 ### 🌾 ConectaAgricultor
@@ -103,7 +102,7 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=00FF41&style=flat-square&label=Visualizações+do+Perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Ailinol&color=00FF41&style=flat-square&label=Visualizações+do+Perfil"/>
 
 </div>
 
