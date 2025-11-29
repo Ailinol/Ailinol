@@ -11,6 +11,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=AI+ENGINEER+%7C+FULL-STACK+%7C+CYBERSEC&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=35"/>
 
+![Matrix Animation](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0080&background=00000000&center=true&vCenter=true&width=800&lines=Especialista+em+IA+%26+LLMs;Desenvolvedor+Full-Stack;Mestre+dos+Dados;Explorando+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
 <br/>
