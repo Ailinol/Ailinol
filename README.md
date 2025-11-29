@@ -27,9 +27,9 @@ Olá! Sou **Liliano Licumba**, estudante de **Licenciatura em Informática-Labor
 
 Sou apaixonado por tecnologia e estou sempre explorando novas áreas, com foco especial em:
 
-- 🤖 **Engenharia de LLMs** (Large Language Models) e IA Generativa
-- 🛡️ **Cibersegurança** - Focado em web(Red team + blue team)
-- 🖥️ **Desenvolvimento web** focado em Back-end 
+- **Engenharia de LLMs** (Large Language Models) e IA Generativa
+- **Cibersegurança** - Focado em web(Red team + blue team)
+- **Desenvolvimento web** focado em Back-end 
 
 > *"A tecnologia é apenas a ferramenta, o verdadeiro poder está em quem a usa para criar impacto."*
 
@@ -60,17 +60,17 @@ Sou apaixonado por tecnologia e estou sempre explorando novas áreas, com foco e
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Assistente UEM
+###  Assistente UEM
 Assistente virtual com IA para suporte acadêmico e administrativo na Universidade Eduardo Mondlane.
 - **Stack:** Python, 
 - **Funcionalidades:** Processamento de linguagem natural, suporte acadêmico, IA rodando localmente
 
-### 🌾 ConectaAgricultor
+###  ConectaAgricultor
 Marketplace que une agricultores locais a clientes, simplificando a logística e facilitando o comércio direto.
 - **Stack:** Java, Spring Boot, PostgreSQL
 - **Funcionalidades:** Marketplace completo, gestão de logística, sistema de pedidos
 
-### 🍽️ Smart Restaurant
+###  Smart Restaurant
 Sistema de gestão de pedidos e estoque com previsão de demanda usando Machine Learning.
 - **Stack:** JavaFX, Python, AI
 - **Funcionalidades:** Previsão de demanda (ML), gestão de estoque, sistema de pedidos
