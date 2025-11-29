@@ -9,19 +9,9 @@
 ╚══════╝╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=AI+ENGINEER+%7C+FULL-STACK+%7C+CYBERSEC&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=35"/>
-
-![Matrix Animation](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0080&background=00000000&center=true&vCenter=true&width=800&lines=Especialista+em+IA+%26+LLMs;Desenvolvedor+Full-Stack;Mestre+dos+Dados;Explorando+Ciberseguran%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Cybersecurity+Enthusiast;Especialista+em+IA+%26+LLMs" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_LOCATION-MOÇAMBIQUE_🇲🇿-FF0080?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🎓_STUDENT-UEM-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
@@ -29,212 +19,96 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **SOBRE MIM**
+## 👨‍💻 Sobre Mim
 
-```typescript
-const liliano = {
-    nome: "Liliano Licumba",
-    localização: "Moçambique 🇲🇿",
-    educação: "Licenciatura em Informática-Laboral | UEM",
-    foco: [
-        "🤖 Engenharia de LLMs (Large Language Models)",
-        "🛡️ Cibersegurança Ofensiva & Defensiva",
-        "⚙️ Manipulação de arquivos binários",
-        "🖥️ Sistemas desktop (Swing/JavaFX)"
-    ],
-    filosofia: "A tecnologia é apenas a ferramenta, o verdadeiro poder está em quem a usa para criar impacto."
-};
-```
+Olá! Sou **Liliano Licumba**, estudante de **Licenciatura em Informática-Laboral** na **Universidade Eduardo Mondlane** (UEM), em Moçambique 🇲🇿.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Sou apaixonado por tecnologia e estou sempre explorando novas áreas, com foco especial em:
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **TECNOLOGIAS**
+- 🤖 **Engenharia de LLMs** (Large Language Models) e IA Generativa
+- 🛡️ **Cibersegurança** - tanto ofensiva quanto defensiva
+- ⚙️ **Manipulação de arquivos binários** e sistemas de baixo nível
+- 🖥️ **Desenvolvimento de sistemas desktop** usando Swing e JavaFX
+
+> *"A tecnologia é apenas a ferramenta, o verdadeiro poder está em quem a usa para criar impacto."*
+
+<br/>
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 💻 **Linguagens de Programação**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 **Frameworks & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,docker&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
-
-### 🤖 **IA & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-### 🎨 **Outras Tecnologias**
-
-<table align="center">
-<tr>
-<td align="center" width="110">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="65"/>
-<br><strong>JavaFX</strong>
-</td>
-<td align="center" width="110">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="65"/>
-<br><strong>Swing</strong>
-</td>
-<td align="center" width="110">
-<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="65"/>
-<br><strong>SQL</strong>
-</td>
-<td align="center" width="110">
-<img src="https://img.icons8.com/color/96/000000/console.png" width="65"/>
-<br><strong>Pascal</strong>
-</td>
-<td align="center" width="110">
-<img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" width="65"/>
-<br><strong>LLMs</strong>
-</td>
-</tr>
-</table>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **PROJETOS**
+## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 **Assistente UEM**
-
-**Stack:** `Python` `NLP` `IA Local`
-
+### 🤖 Assistente UEM
 Assistente virtual com IA para suporte acadêmico e administrativo na Universidade Eduardo Mondlane.
+- **Stack:** Python, NLP, IA Local
+- **Funcionalidades:** Processamento de linguagem natural, suporte acadêmico, IA rodando localmente
 
-**Funcionalidades:**
-- 🧠 Processamento de linguagem natural
-- 📚 Suporte acadêmico
-- ⚡ IA rodando localmente
+### 🌾 ConectaAgricultor
+Marketplace que une agricultores locais a clientes, simplificando a logística e facilitando o comércio direto.
+- **Stack:** Java, Spring Boot, PostgreSQL
+- **Funcionalidades:** Marketplace completo, gestão de logística, sistema de pedidos
 
-</td>
-<td width="50%" valign="top">
-
-### 🌾 **ConectaAgricultor**
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL`
-
-Marketplace unindo agricultores locais a clientes, simplificando a logística e facilitando o comércio direto.
-
-**Funcionalidades:**
-- 🛒 Marketplace completo
-- 📦 Gestão de logística
-- 💰 Sistema de pedidos
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ **Smart Restaurant**
-
-**Stack:** `JavaFX` `Python` `AI`
-
+### 🍽️ Smart Restaurant
 Sistema de gestão de pedidos e estoque com previsão de demanda usando Machine Learning.
-
-**Funcionalidades:**
-- 🤖 Previsão de demanda (ML)
-- 📊 Gestão de estoque
-- 🍴 Sistema de pedidos
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 **Outros Projetos**
-
-Constantemente trabalhando em novos projetos relacionados a:
-- 🔐 Cibersegurança
-- 🤖 Inteligência Artificial
-- 📱 Aplicações Desktop
-- 🌐 Sistemas Web
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **ESTATÍSTICAS**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&title_color=00FF41&icon_color=FF0080&text_color=00D9FF&bg_color=0D1117&border_color=00FF41&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=radical&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00D9FF&border=00FF41" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&title_color=00FF41&text_color=00D9FF&bg_color=0D1117&border_color=FF0080&langs_count=8" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **FILOSOFIA**
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "A tecnologia é apenas a ferramenta,                         ║
-║   o verdadeiro poder está em quem a usa                       ║
-║   para criar impacto."                                        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://media.giphy.com/media/LHTJ0NSN6xF8a69zZ2/giphy.gif" width="120">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **CONTATO**
-
-<div align="center">
-
-```javascript
-const contato = {
-    email: "seu-email@dominio.com",
-    linkedin: "linkedin.com/in/seu-linkedin",
-    github: "github.com/SEU_USUARIO_GITHUB",
-    status: "Aberto para colaborações! 🚀"
-};
-```
+- **Stack:** JavaFX, Python, AI
+- **Funcionalidades:** Previsão de demanda (ML), gestão de estoque, sistema de pedidos
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contatar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
-
-<br/>
-
-<img src="https://img.shields.io/badge/DISPONÍVEL_PARA-COLABORAÇÕES-00FF41?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/ABERTO_A-PROJETOS-FF0080?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
 
-**Made with 💚 by Liliano Licumba**
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41&langs_count=8" />
 
-<sub>Transformando café em código desde sempre ☕💻</sub>
+</div>
 
+<br/>
+
+## 📫 Entre em Contato
+
+<div align="center">
+
+Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=00FF41&style=flat-square&label=Visualizações+do+Perfil"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"/>
 </div>
