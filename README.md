@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img src="https://img.shields.io-badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -35,12 +35,54 @@
   ],
   "experiencia_unica": "Manipulação de arquivos binários e sistemas desktop (Swing/JavaFX)"
 }
-🛠 Arsenal Tecnológico
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,postgres,docker,git,linux,vscode,tensorflow,pytorch&perline=8&theme=dark"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Pascal-004C88?style=for-the-badge&logo=delphi&logoColor=white"/> <img src="https://img.shields.io/badge/JavaFX-E76F00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> </div>
-🚀 Projetos de Impacto
-🚧 Projeto	💻 Stack	📝 Descrição
-🤖 Assistente UEM	Python · NLP · IA Local	Assistente virtual com IA para suporte acadêmico e administrativo na UEM.
-🌾 ConectaAgricultor	Java · Spring Boot · PostgreSQL	Marketplace unindo agricultores locais a clientes, simplificando logística.
-🍽️ Smart Restaurant	JavaFX · Python · AI	Sistema de gestão de pedidos e estoque com previsão de demanda via ML.
-🏆 Conquistas & Analytics
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=buefy&no-frame=true&no-bg=true&margin-w=4" /> </a> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&langs_count=8" height="180" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical&hide_border=true" /> </div> <div align="center"> <img src="https://media.giphy.com/media/LHTJ0NSN6xF8a69zZ2/giphy.gif" width="100"> <i>"A criatividade é a forma de resolver problemas que ninguém mais consegue ver."</i> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=80&section=footer"/> </div> ```
+```
+
+## 🛠 Arsenal Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,postgres,docker,git,linux,vscode,tensorflow,pytorch&perline=8&theme=dark"/>
+  
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pascal-004C88?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-E76F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
+
+## 🚀 Projetos de Impacto
+
+| 🚧 Projeto | 💻 Stack | 📝 Descrição |
+|-----------|---------|--------------|
+| 🤖 Assistente UEM | Python · NLP · IA Local | Assistente virtual com IA para suporte acadêmico e administrativo na UEM. |
+| 🌾 ConectaAgricultor | Java · Spring Boot · PostgreSQL | Marketplace unindo agricultores locais a clientes, simplificando logística. |
+| 🍽️ Smart Restaurant | JavaFX · Python · AI | Sistema de gestão de pedidos e estoque com previsão de demanda via ML. |
+
+## 🏆 Conquistas & Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=buefy&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LHTJ0NSN6xF8a69zZ2/giphy.gif" width="100">
+  
+  <i>"A criatividade é a forma de resolver problemas que ninguém mais consegue ver."</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=80&section=footer"/>
+</div>
