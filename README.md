@@ -81,10 +81,10 @@ Sistema de gestão de pedidos e estoque com previsão de demanda usando Machine 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ailinol&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ailinol&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailinol&layout=compact&theme=dark&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41&langs_count=8" />
 
 </div>
 
