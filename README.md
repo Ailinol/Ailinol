@@ -81,16 +81,18 @@ Sistema de gestão de pedidos e estoque com previsão de demanda usando Machine 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ailinol&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Ailinol&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=Ailinol&theme=radical&hide_border=true" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailinol&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ailinol&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 <br/>
+
 
 ## 📫 Entre em Contato
 
