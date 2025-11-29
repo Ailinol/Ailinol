@@ -81,13 +81,12 @@ Sistema de gestão de pedidos e estoque com previsão de demanda usando Machine 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Ailinol&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Ailinol&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Ailinol&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41&hide_border=false&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Ailinol&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=00FF41&stroke=00FF41" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ailinol&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ailinol&layout=compact&theme=dark&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117&border_color=00FF41&hide_border=false&langs_count=8&cache_seconds=86400" />
 
 </div>
 
